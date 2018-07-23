@@ -69,7 +69,7 @@ namespace PatientVault.Api.Example
                 // If you wish to retrieve all records, comment out the Filters property.
                 Filters = new Dictionary<string, string>
                 {
-                    { "FirstName", "Vanessa" },
+                    { "FirstName", "" },
                     { "LastName", "" }
                 }
             };
