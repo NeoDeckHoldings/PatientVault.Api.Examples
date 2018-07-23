@@ -1,0 +1,15 @@
+.vs/
+PatientVault.ClientAG.Release/
+PatientVault.Release/
+PatientVault.Worker.Release/
+PatientVault.Site.Release/
+PatientVault.ClientA.Release/
+PatientVault.Client.Release/
+PatientVault.Api.Release/
+bin/
+*.user
+packages/
+obj/
+PatientVault.Admin.Release/
+*.suo
+PatientVault.Admin/BridgesManager/bower_components/
